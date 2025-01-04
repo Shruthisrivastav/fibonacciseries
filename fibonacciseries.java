@@ -1,4 +1,4 @@
-public class FibonacciSeries {
+public class FibonacciSeries.java {
     public static void main(String[] args) {
         int n = 10; // Number of terms in Fibonacci series
         int first = 0, second = 1;
